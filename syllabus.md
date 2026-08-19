@@ -15,7 +15,7 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Section 101:**  T Th    9:30 AM - 10:45 PM<br>
+ - **Section 101:**  T Th    9:30 AM - 10:45 AM<br>
  
 **Location:** KEC119<br>
 **Webpage:** <https://ycpcs.github.io/cs350-fall2026>

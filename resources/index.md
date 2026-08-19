@@ -16,10 +16,6 @@ Additional environment resources:
 
  - Online Course Textbook: [Open Data Structures](http://opendatastructures.org)
  
- - C++ Reference: [C++ tutorial at cplusplus.com](http://www.cplusplus.com/doc/tutorial/)
-
- - Another C++ Reference: [LearnCpp.com](http://www.learncpp.com)
- 
  - [Online data structure visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
  
  - [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/) (useful for AA-Tree Visualization)
