@@ -155,13 +155,9 @@ If you fail to abide by these standards you may be asked to leave for the remain
 
 
 
-### Generative AI
+### Collaboration Policy
 
-Generative Artificial Intelligence (AI) is a valuable asset and is fast becoming an invaluable resource in helping individuals, including students, navigate complex emerging challenges involving its responsible uses across the workforce and broadly in society. Accordingly, this tool may be built into required assignments or used in classes to accelerate learning. Concurrently, generative AI poses a myriad of challenges during the college career. To illustrate, for students still developing their knowledge and skills it can hinder the ability to grasp core competencies that are essential for future success. Research also indicates that overuse or reliance can impair course learning goals.
-
-Therefore, York College of Pennsylvania faculty reserve the right to choose whether, and to what extent, students may use generative AI for any given academic work. It is the responsibility of the student to follow any such explicit instructions, and if uncertain on appropriate boundaries of use, to communicate with the faculty member in a timely fashion to ensure full clarity on the use of generative AI on any given academic endeavor. Students cannot assume permission to use generative AI unless explicitly granted by the faculty member; unsanctioned use may be deemed an academic integrity violation.
-
-**Any use of generative AI should be explicitly noted on assignment submission, included the tool that was used and a query/response history.**
+You are encouraged to discuss course material with other students. Discussing the text, lecture notes, assignments and their solutions, is a great way to expose yourself to different approaches to thinking about the material. For many of the problems assigned in this class there will be no single right answer. Comparing multiple solutions to the same problem can help you to develop of much deeper understanding of the material. However, everything that you turn in must be your own work, unless instructed otherwise. If you work on assignments with another student or students, you need to explicitly list those students on the work you submit. If you found information on a website or in other materials (books, papers, etc.) then cite them as well. There is no penalty for naming who you worked with or listing other references. However, you will lose credit if you do not list someone with whom you collaborated, or other resources. You are not allowed to copy answers or parts of answers from anyone else, or from material you find on the Internet or elsewhere. This will be considered as willful cheating, and will be dealt with as a violation of the Academic Integrity code.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
@@ -176,6 +172,18 @@ When a faculty member believes a student has committed an act of academic dishon
 Students who believe they have been unjustly charged or sanctioned must discuss the situation with the faculty member and have 10 business days thereafter to submit an appeal to Student Welfare Committee through the Dean of Academic Affairs. If an appeal is filed, the Student Welfare Committee will then conduct a hearing to review the charge and/or sanction.  In the case of an egregious first offense, the faculty member may request that the Student Welfare Committee conduct a hearing and determine a sanction, which may involve academic probation, suspension or dismissal from the College.
 
 If the Dean of Academic Affairs determines that the academic dishonesty is the student's second offense, the Dean will provide written notification to the student, the faculty member, and the Department Chair. The Student Welfare Committee will automatically conduct a hearing to review the charge and decide on an appropriate sanction, which will involve academic probation, suspension or dismissal from the College. Students who believe the Student Welfare Committee has unjustly sanctioned them may submit a written appeal to the Dean of Academic Affairs within 72 hours of receiving notification of the Student Welfare Committee's sanction.
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+
+
+### Generative AI
+
+Generative Artificial Intelligence (AI) is a valuable asset and is fast becoming an invaluable resource in helping individuals, including students, navigate complex emerging challenges involving its responsible uses across the workforce and broadly in society. Accordingly, generative AI tools (e.g., ChatGPT, Claude, Gemini, Copilot, etc.) may be built into required assignments or used in classes to accelerate learning. Concurrently, generative AI poses a myriad of new challenges that students must face during their college career. At this stage, students are still developing their knowledge and skills, and generative AI can hinder the ability to grasp core competencies that are essential for future success. Research also indicates that overuse or reliance can impair course learning goals.
+
+Therefore, York College of Pennsylvania faculty reserve the right to choose whether, and to what extent, students may use generative AI for any given academic work. It is the responsibility of the student to follow any such explicit instructions, and if uncertain on the appropriate boundaries of use, to communicate with the faculty member in a timely fashion to ensure full clarity on the use of generative AI on any given academic endeavor. Students cannot assume permission to use generative AI without explicit authorization from the faculty member; unsanctioned use may be deemed an academic integrity violation.
+
+**Any use of generative AI should be explicitly noted on assignment submission, included the tool that was used and a query/response history.**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
