@@ -406,13 +406,13 @@ Fix any memory leaks that are detected.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-> **<font color="red">⚠ Do not manually zip your project and upload it to Marmoset.** Use one of the submission methods below.</font>
+> <font color="red"><strong>⚠ Do not manually zip your project and upload it to Marmoset. Use one of the submission methods below.</strong></font>
 
 You can submit your assignment from within **CLion** or from the **Terminal**.
 
 Before submitting:
 
-> **<font color="red">⚠ Be sure to remove all debug output from your methods prior to submission!**</font>
+> <font color="red"><strong>⚠ Be sure to remove all debug output from your methods prior to submission!</strong></font>
 
 The only methods that should produce output are the provided **```printTree()```** and **```printNodesInOrder()```**.
 
